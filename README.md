@@ -1,0 +1,2 @@
+# Gname
+GnomeじゃないよGnameだよ
